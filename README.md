@@ -1,4 +1,4 @@
-# Archeology meets Image Processing
+# Data Analysis of Aztec Codices 
 
 From some time to now, the Vatican Library has released many digitized
 [documents](https://digi.vatlib.it/). Some of those documents are the __Aztec
@@ -12,15 +12,15 @@ the codices available are:
 
 ## Tasks in mind
 
-- Scrape images.
-- Apply simple image preprocessing, such as, delete borders or enhance contrast.
-- Color analysis: Can lead to simple, but still, interesting data visualizations (R has rich data visualization toolset).
+- Scrape the image files.
+- Apply simple image preprocessing tasks, such as, delete borders or enhance contrast.
+- Color analysis: Can lead to simple, but still, interesting data visualizations (R has rich data visualization tool set).
 - Extract the symbols.
 - Identify similar symbols (maybe using clustering).
 - Identify simple patterns.
 
-# Archäologie trifft Bildverarbeitung 
+# Datenanalyse von Aztec-Codices
 
-(The translation to German is in process)
+(Translation to German is in process)
 
 Vor kurzem, hat der Vatikan viele digitalisierte Dokumente veröffentlicht.
